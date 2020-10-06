@@ -1,0 +1,32 @@
+* {
+    background-color: black;
+    color: white;
+    margin: 0px;
+    padding: 0px;
+    line-height: 1em;
+    font-size: 1em;
+}
+
+p {
+    font-size: 1em;
+}
+
+h1 {
+    font-size: 2em;
+}
+
+h2 {
+    font-size: 1.5em;
+}
+
+h3 {
+    font-size: 1.25em;
+}
+
+h4 {
+    font-size: 1.12em;
+}
+
+h5 {
+    font-size: 1em;
+}
