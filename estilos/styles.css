@@ -64,6 +64,7 @@ main {
 
 .logo {
     float: right;
+    max-width: 100%;
 }
 
 ul {
